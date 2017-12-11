@@ -32,3 +32,5 @@
 [user]
 
   useconfigonly = true
+	email = fabien.lebas@decathlon.com
+	name = Fabien Lebas
